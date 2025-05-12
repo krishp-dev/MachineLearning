@@ -66,19 +66,6 @@ This is not just a collection of code — it's a **launchpad for future ML maste
 - Matplotlib, Seaborn
 
 ---
-
-## 📷 Sample Visuals
-
-| Algorithm | Visualization |
-|----------|----------------|
-| Decision Tree | ![Tree](assets/decision_tree.png) |
-| K-Means Clustering | ![KMeans](assets/kmeans.png) |
-| PCA | ![PCA](assets/pca_plot.png) |
-
-> *(Add your own visualizations in the `assets/` folder to personalize this)*
-
----
-
 ## 🧠 How to Use
 
 ```bash
